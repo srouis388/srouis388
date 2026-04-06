@@ -8,12 +8,20 @@ Personal GitHub profile featuring thoughtful, people-centered projects and ongoi
 ## 🧭 Projects
 
 ### 🌊 Harbor
-A safety-first dating experience for disabled veterans - designed to feel calm, respectful, and human.
+A safety-first dating experience for disabled veterans — designed to feel calm, respectful, and human.
 
 [Visit Harbor](https://harborvets.app)
 
+<img src="./images/harbor.png" width="700" alt="Harbor preview">
+
+---
+
 ### 🏡 Sterling Nest Wellness
-A home care and companion care website centered on dignity, reassurance, and support for families and loved ones.
+A home care and companion care website centered on dignity, reassurance, and support for individuals and families.
+
+[Visit Sterling Nest](https://sterlingnestwellness.com)
+
+<img src="./images/sterling.png" width="700" alt="Sterling Nest preview">
 
 ---
 
