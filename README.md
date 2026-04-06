@@ -8,7 +8,7 @@ Personal GitHub profile featuring thoughtful, people-centered projects and ongoi
 ## 🧭 Projects
 
 ### 🌊 Harbor
-A safety-first dating experience for disabled veterans — designed to feel calm, respectful, and human.
+A safety-first dating experience for disabled veterans - designed to feel calm, respectful, and human.
 
 [Visit Harbor](https://harborvets.app)
 
