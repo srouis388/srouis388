@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I’m Edward 👋
+> Building calm, people-centered digital experiences.
 
-<!--
-**srouis388/srouis388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal GitHub profile featuring thoughtful, people-centered projects and ongoing frontend learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Projects
+
+### 🌊 Harbor
+A safety-first dating experience for disabled veterans — designed to feel calm, respectful, and human.
+
+[Visit Harbor](https://harborvets.app)
+
+### 🏡 Sterling Nest Wellness
+A home care and companion care website centered on dignity, reassurance, and support for families and loved ones.
+
+---
+
+## 💭 Build philosophy
+
+I’m focused on building things that are:
+
+- useful
+- trustworthy
+- calm
+- human
+
+I care about thoughtful design, real problems, and steady progress over hype.
+
+---
+
+## 🛠 Learning
+
+- JavaScript fundamentals
+- Frontend development
+- Solo founder workflow
+- Turning ideas into live projects
+
+---
+
+## 🤝 Open to
+
+- thoughtful feedback
+- collaboration-minded conversations
+- learning from others building meaningful products
+
+---
+
+Thanks for stopping by.
