@@ -27,12 +27,12 @@ A home care and companion care website centered on dignity, reassurance, and sup
 
 ## 💭 Build philosophy
 
-I’m focused on building things that are:
+I focus on building things that are:
 
-- useful
-- trustworthy
-- calm
-- human
+- useful  
+- trustworthy  
+- calm  
+- human  
 
 I care about thoughtful design, real problems, and steady progress over hype.
 
