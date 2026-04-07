@@ -12,7 +12,7 @@ A safety-first dating experience for disabled veterans — designed to feel calm
 
 [Visit Harbor](https://harborvets.app)
 
-<img src="./images/harbor.png" width="700" alt="Harbor preview">
+<img src="/images/harbor.png" width="700" alt="Harbor preview">
 
 ---
 
@@ -21,7 +21,7 @@ A home care and companion care website centered on dignity, reassurance, and sup
 
 [Visit Sterling Nest](https://sterlingnestwellness.com)
 
-<img src="./images/sterling.png" width="700" alt="Sterling Nest preview">
+<img src="/images/sterling.png" width="700" alt="Sterling Nest preview">
 
 ---
 
