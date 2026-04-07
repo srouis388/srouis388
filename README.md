@@ -8,7 +8,7 @@ I build thoughtful, real-world projects focused on helping people feel supported
 ## 🧭 Projects
 
 ### 🌊 Harbor
-A safety-first dating experience for disabled veterans — designed to feel calm, respectful, and human.
+A safety-first dating experience for disabled veterans - designed to feel calm, respectful, and human.
 
 [Visit Harbor](https://harborvets.app)
 
