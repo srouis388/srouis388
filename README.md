@@ -24,7 +24,27 @@ A home care and companion care website centered on dignity, reassurance, and sup
 <img src="./images/sterling.png" width="700" alt="Sterling Nest preview">
 
 ---
+✨ Southern Charm Cleaning
 
+A responsive landing page built for a local residential cleaning company serving Douglas, Broxton, and surrounding South Georgia communities.
+
+Highlights
+
+* 🎨 Brand identity implementation
+* 📱 Responsive HTML5 & CSS3 design
+* ☁️ Hosted with Cloudflare Pages
+* 💻 Version controlled with GitHub
+* 📝 Embedded Google Forms estimate request
+* 📍 Local SEO foundation
+* 🖼️ Professional business branding
+
+Tech Stack
+
+HTML5 • CSS3 • GitHub • Cloudflare Pages • Google Forms
+
+🔗 Repository: (Add your GitHub repository link here)
+
+🌐 Live Website: (Add the Cloudflare Pages or custom domain when deployed)
 ## 💭 Build philosophy
 
 I focus on building things that are:
