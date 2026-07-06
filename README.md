@@ -42,7 +42,7 @@ Tech Stack
 
 HTML5 • CSS3 • GitHub • Cloudflare Pages • Google Forms
 
-[Visit Southern Charm Cleaning] (https://github.com/srouis388/Southern-Charm-Cleaning)
+[Visit Southern Charm Cleaning](https://github.com/srouis388/Southern-Charm-Cleaning)
 
 🌐 Live Website: (Add the Cloudflare Pages or custom domain when deployed)
 ## 💭 Build philosophy
